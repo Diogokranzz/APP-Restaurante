@@ -67,7 +67,7 @@ const featuredDishes = [
     name: "Risoto de Funghi",
     description: "Arroz arbóreo com mix de cogumelos frescos e parmesão",
     price: "68,00",
-    image: "https://images.unsplash.com/photo-1673421161165-c4b5b0489aef?q=80&w=1000&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1644704170910-a0cdf183649b?q=80&w=1000&auto=format&fit=crop",
   },
   {
     id: 2,
